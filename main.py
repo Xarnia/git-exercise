@@ -12,3 +12,4 @@ print("""
                                                                     ▄▄▀▀▄▄▄▓▄▀█                        
                                                                      ▀  ▀▀▀▀▀▀                     	
 """)
+print("Welcome to Git 101")
