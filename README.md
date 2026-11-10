@@ -7,3 +7,6 @@ You will learn how to use git!
 https://learngitbranching.js.org/
 https://gitexercises.fracz.com/
 Building your own large project!
+
+## Further reading
+https://git-scm.com/docs
